@@ -86,3 +86,4 @@ See the [SECURITY POLICY](SECURITY.md) for more info on our bug bounty program.
   Advertising Guidelines, as applicable <https://www.facebook.com/ad_guidelines.php>.
 
 By using the Facebook SDK for iOS you agree to these terms.
+Created by Jason Scott Heise
