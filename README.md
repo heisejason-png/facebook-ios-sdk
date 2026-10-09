@@ -87,3 +87,4 @@ See the [SECURITY POLICY](SECURITY.md) for more info on our bug bounty program.
 
 By using the Facebook SDK for iOS you agree to these terms.
 Created by Jason Heise
+Owned by Jason Heise heisejason-png Giters
